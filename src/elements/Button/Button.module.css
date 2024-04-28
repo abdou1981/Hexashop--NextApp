@@ -1,0 +1,11 @@
+.logout {
+  background-color: var(--color-primary);
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: var(--size-border-radius);
+  -webkit-border-radius: var(--size-border-radius);
+  -moz-border-radius: var(--size-border-radius);
+  -ms-border-radius: var(--size-border-radius);
+  -o-border-radius: var(--size-border-radius);
+}
